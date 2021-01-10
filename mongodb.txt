@@ -1,6 +1,0 @@
-Install on Ubuntu 20.04
-
-https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
-
-1. wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
-#asdas
